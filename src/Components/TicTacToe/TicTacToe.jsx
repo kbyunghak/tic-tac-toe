@@ -98,8 +98,9 @@ function TicTacToe() {
         box_array.forEach((e) => (e.current.innerHTML = ""));
     }
 
-    return (
+    return (      
         <div className="container">
+              <title>Test</title>
             <h1 className="title" ref={titleRef}>Tic Tac Toe Game In <span>React</span></h1>        
             <div className="board"> 
                 <div className="row1">
