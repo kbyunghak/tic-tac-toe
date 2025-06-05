@@ -100,7 +100,7 @@ function TicTacToe() {
 
     return (      
         <div className="container">
-              <title>Test</title>
+              <title>Test updated</title>
             <h1 className="title" ref={titleRef}>Tic Tac Toe Game In <span>React</span></h1>        
             <div className="board"> 
                 <div className="row1">
